@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83075658121",
+    "project_id": "marrecosdesaturno",
+    "storage_bucket": "marrecosdesaturno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83075658121:android:5d1eac0d22c44090b43158",
+        "android_client_info": {
+          "package_name": "com.marrecosdesaturno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83075658121-03vdvpilggkk467pmm2iopcctd31p3nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marrecosdesaturno",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "83075658121-c0pp90skohu62ee9anki7b2cgbpn40np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4Bq4A4bEVPdB82uBegnZ-rCDbflvQ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83075658121-c0pp90skohu62ee9anki7b2cgbpn40np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
